@@ -1,9 +1,9 @@
-package controller;
+package com.example.Employee.controller;
 
-import model.Employee;
+import com.example.Employee.model.Employee;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import service.Service;
+import com.example.Employee.service.Service;
 
 import java.util.List;
 

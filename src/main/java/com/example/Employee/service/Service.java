@@ -1,7 +1,7 @@
-package service;
+package com.example.Employee.service;
 
-import model.Employee;
-import repository.Repository;
+import com.example.Employee.model.Employee;
+import com.example.Employee.repository.Repository;
 
 import java.util.List;
 
